@@ -1,0 +1,9 @@
+{
+    "name": "souad/backend",
+    "autoload": {
+        "psr-4": {
+            "Souad\\Backend\\": "src/"
+        }
+    },
+    "require": {}
+}
